@@ -1,0 +1,9 @@
+Branoiu Mihai-Catalin 325CA
+
+    Implementarea temei se bazeaza pe solutia laboratorului 10. Programul 
+primeste de la tastatura comenzi si indica utilizatorului agumentele 
+suplimentare necesare pentru fiecare cerere data serverului. Clientul formeaza 
+si trimite cereri serverului, primeste raspunsul acestuia si afiseaza 
+utilizatorului.
+    Unele requesturi catre server au ca payload infromatii sub forma JSON. 
+Pentru formatare am folosit biblioteca parson recomandata in enuntul temei. 
